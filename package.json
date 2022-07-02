@@ -3,7 +3,7 @@
   "workspaces": [
     "packages/*"
   ],
-  "name": "03-lgelement",
+  "name": "lgelement",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
